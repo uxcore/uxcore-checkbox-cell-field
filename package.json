@@ -1,6 +1,6 @@
 {
  "name": "uxcore-checkbox-cell-field",
- "version": "0.1.1",
+ "version": "0.2.0",
  "description": "uxcore-checkbox-cell-field component for uxcore.",
  "repository": "https://github.com/uxcore/uxcore-checkbox-cell-field.git",
  "author": "eternalsky",
@@ -45,7 +45,7 @@
  "dependencies": {
   "classnames": "^2.1.2",
   "object-assign": "^4.0.0",
-  "uxcore-cell-field": "^0.1.2",
+  "uxcore-cell-field": "^0.2.0",
   "uxcore-checkbox-group": "^1.1.1"
  },
  "contributors": [],
